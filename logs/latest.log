@@ -1,0 +1,13 @@
+[20Apr2023 19:47:23.730] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.0.46, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[20Apr2023 19:47:23.741] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[20Apr2023 19:47:24.007] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/cgoru/Desktop/server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[20Apr2023 19:47:24.084] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file C:\Users\cgoru\Desktop\server\config\fml.toml is not correct. Correcting
+[20Apr2023 19:47:24.099] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[20Apr2023 19:47:24.512] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\cgoru\Desktop\server\libraries\net\minecraftforge\fmlcore\1.19.4-45.0.46\fmlcore-1.19.4-45.0.46.jar is missing mods.toml file
+[20Apr2023 19:47:24.520] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\cgoru\Desktop\server\libraries\net\minecraftforge\javafmllanguage\1.19.4-45.0.46\javafmllanguage-1.19.4-45.0.46.jar is missing mods.toml file
+[20Apr2023 19:47:24.529] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\cgoru\Desktop\server\libraries\net\minecraftforge\lowcodelanguage\1.19.4-45.0.46\lowcodelanguage-1.19.4-45.0.46.jar is missing mods.toml file
+[20Apr2023 19:47:24.538] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\cgoru\Desktop\server\libraries\net\minecraftforge\mclanguage\1.19.4-45.0.46\mclanguage-1.19.4-45.0.46.jar is missing mods.toml file
+[20Apr2023 19:47:24.765] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20Apr2023 19:47:26.928] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[20Apr2023 19:47:27.456] [main/WARN] [net.minecraft.server.Eula/]: Failed to load eula.txt
+[20Apr2023 19:47:27.472] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
